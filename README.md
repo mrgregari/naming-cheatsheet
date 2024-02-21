@@ -375,3 +375,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
 ```
 This is a first new part!
 This is a second new part!
+This is a third new part!
