@@ -214,7 +214,7 @@ function removeFilter(filterName, filters) {
   return filters.filter((name) => name !== filterName)
 }
 
-const selectedFilters = ['price', 'availability', 'size']
+Рисунок 58 – Первое изменение в первой веткеconst selectedFilters = ['price', 'availability', 'size']
 removeFilter('price', selectedFilters)
 ```
 
@@ -374,3 +374,4 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 This is a first new part!
+This is a second new part!
